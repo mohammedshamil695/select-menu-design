@@ -6,7 +6,7 @@
 .hero{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(C:/Users/DELL/Desktop/selectmenu/scmedia.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(image/scmedia.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
